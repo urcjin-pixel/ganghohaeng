@@ -5,7 +5,7 @@
 window.FIREBASE_CONFIG = {
   apiKey: "AIzaSyB0SgIiE0NGRvfZmLd3PPQNhJ3u1SOfbg8",
   authDomain: "skyhighweb-b92f3.firebaseapp.com",
-  databaseURL: "https://skyhighweb-b92f3-default-rtdb.asia-southeast1.firebasedatabase.app/",
+  databaseURL: "https://skyhighweb-b92f3-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "skyhighweb-b92f3",
   appId: "1:841064450579:web:0ad25b4c45b1647e6dcde6"
 };
